@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: প্রথম পোস্ট !
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+এটা আমার প্রথম পোস্ট, কি দারুণ!!!
