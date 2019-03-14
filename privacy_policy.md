@@ -1,4 +1,7 @@
-## Privacy Policy
+---
+layout: page
+title: Privacy Policy
+---
 
 Mahbub Hassan built the Wifi Hotspot app as an Ad Supported app. This SERVICE is provided by Mahbub Hassan at no cost and is intended for use as is.
 
